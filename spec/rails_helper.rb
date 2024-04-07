@@ -8,7 +8,7 @@ require 'rspec/rails'
 require 'simplecov'
 require "faker"
 
-Simplecov.start
+SimpleCov.start
 
 # Add additional requires below this line. Rails is not loaded until this point!
 
